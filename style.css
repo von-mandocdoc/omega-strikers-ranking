@@ -1,0 +1,23 @@
+.row {
+    border-style: solid;
+}
+
+.header {
+    background-color: blueviolet;
+    height: 100px;
+}
+
+.player-profile {
+    background-color: aqua;
+    height: 800px;
+}
+
+.rank-information {
+    background-color: chartreuse;
+    height: 400px;
+}
+
+.characters-played {
+    background-color: bisque;
+    height: 400px;
+}
