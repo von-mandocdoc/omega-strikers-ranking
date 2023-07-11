@@ -1,0 +1,1 @@
+This project will allow users to search for a player in Omega Strikers and view their profile information.
